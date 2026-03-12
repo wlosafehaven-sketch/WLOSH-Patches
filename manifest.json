@@ -1,28 +1,15 @@
 ﻿{
-    "gameTitle":  "Wonderland Online: Safe Haven",
-    "latestVersion":  "1.1.0",
-    "patches":  [
-                    {
-                        "version":  "1.1.0",
-                        "releaseDate":  "2026-03-12",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.1.0/patch_1.1.0.zip",
-                        "patchNotes":  "Week 1: Initial translation",
-                        "fileSizeBytes":  7776170,
-                        "sha256":  "bdcaf8682aa37f2b1daa8331bcd4f3a52f0afe8fefdad0a655785c685ac1db29",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.1.0",
-                        "releaseDate":  "2026-03-12",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.1.0/patch_1.1.0.zip",
-                        "patchNotes":  "Week 1: Initial translation",
-                        "fileSizeBytes":  7776170,
-                        "sha256":  "da0044dc9f8d601d1da47fe23b4c7de11ef55d9d46dc1d308652cb44cb4466fe",
-                        "fileHashes":  {
-
-                                       }
-                    }
-                ]
+  "gameTitle": "Wonderland Online: Safe Haven",
+  "latestVersion": "1.1.0",
+  "patches": [
+    {
+      "version": "1.1.0",
+      "releaseDate": "2026-03-12",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.1.0/patch_1.1.0.zip",
+      "patchNotes": "Week 1: Initial translation",
+      "fileSizeBytes": 7776170,
+      "sha256": "bdcaf8682aa37f2b1daa8331bcd4f3a52f0afe8fefdad0a655785c685ac1db29",
+      "fileHashes": {}
+    }
+  ]
 }
