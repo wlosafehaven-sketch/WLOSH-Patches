@@ -12,6 +12,17 @@
                         "fileHashes":  {
 
                                        }
+                    },
+                    {
+                        "version":  "1.1.0",
+                        "releaseDate":  "2026-03-13",
+                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.1.0/patch_1.1.0.zip",
+                        "patchNotes":  "Beta Testing: Week 2 - Pet/Skill Changes",
+                        "fileSizeBytes":  7776109,
+                        "sha256":  "15a2d0dfadee00281ac4c2ea242df48f072a0139d1493823383398c3971f5a38",
+                        "fileHashes":  {
+
+                                       }
                     }
                 ]
 }
