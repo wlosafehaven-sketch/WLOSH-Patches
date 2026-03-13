@@ -1,6 +1,17 @@
 ﻿{
-  "gameTitle": "Wonderland Online: Safe Haven",
-  "latestVersion": "1.1.0",
-  "patches": [
-  ]
+    "gameTitle":  "Wonderland Online: Safe Haven",
+    "latestVersion":  "1.1.0",
+    "patches":  [
+                    {
+                        "version":  "1.1.0",
+                        "releaseDate":  "2026-03-13",
+                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.1.0/patch_1.1.0.zip",
+                        "patchNotes":  "Beta Testing: Week 2 - Pet/Skill Changes",
+                        "fileSizeBytes":  7776109,
+                        "sha256":  "019fc44c059bcba3085c4fae59e6dae2b6e877336d7503f576467bd8e8b0ba6d",
+                        "fileHashes":  {
+
+                                       }
+                    }
+                ]
 }
