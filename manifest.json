@@ -1,6 +1,6 @@
 ﻿{
     "gameTitle":  "Wonderland Online: Safe Haven",
-    "latestVersion":  "1.2.24",
+    "latestVersion":  "1.2.25",
     "patches":  [
                     {
                         "version":  "1.1.0",
@@ -361,6 +361,17 @@
                         "patchNotes":  "Panel Skins",
                         "fileSizeBytes":  282493705,
                         "sha256":  "22c4afcb18c0ce204bf5ff60f8fe70c0bafabe423fad4044152c3610dc0b1efb",
+                        "fileHashes":  {
+
+                                       }
+                    },
+                    {
+                        "version":  "1.2.25",
+                        "releaseDate":  "2026-07-19",
+                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.25/patch_1.2.25.zip",
+                        "patchNotes":  "",
+                        "fileSizeBytes":  373320759,
+                        "sha256":  "aae7fa222b591f3fd30d86a9d9697f7dc71ab58e3b1c37e395faa10b39de2e8d",
                         "fileHashes":  {
 
                                        }
