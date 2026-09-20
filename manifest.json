@@ -1,6 +1,6 @@
 ﻿{
     "gameTitle":  "Wonderland Online: Safe Haven",
-    "latestVersion":  "1.2.42",
+    "latestVersion":  "1.2.43",
     "patches":  [
                     {
                         "version":  "1.1.0",
@@ -559,6 +559,17 @@
                         "patchNotes":  "September 18 Patch",
                         "fileSizeBytes":  2877872,
                         "sha256":  "9d020255b5326615f150978b6efaea53879e28a495305894eac31c45574bb447",
+                        "fileHashes":  {
+
+                                       }
+                    },
+                    {
+                        "version":  "1.2.43",
+                        "releaseDate":  "2026-09-20",
+                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.43/patch_1.2.43.zip",
+                        "patchNotes":  "September 20 Patch",
+                        "fileSizeBytes":  133855557,
+                        "sha256":  "1d47284afe1a43bec0270a653c243d6da9684e2299669286aa01ac375c6e6ee1",
                         "fileHashes":  {
 
                                        }
