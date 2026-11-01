@@ -1,677 +1,555 @@
-﻿{
-    "gameTitle":  "Wonderland Online: Safe Haven",
-    "latestVersion":  "1.2.26",
-    "patches":  [
-                    {
-                        "version":  "1.1.0",
-                        "releaseDate":  "2026-03-13",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.1.0/patch_1.1.0.zip",
-                        "patchNotes":  "Beta Testing: Week 2 - Pet/Skill Changes",
-                        "fileSizeBytes":  7776109,
-                        "sha256":  "15a2d0dfadee00281ac4c2ea242df48f072a0139d1493823383398c3971f5a38",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.1.1",
-                        "releaseDate":  "2026-03-30",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.1.1/patch_1.1.1.zip",
-                        "patchNotes":  "Beta Testing: April 30 Update",
-                        "fileSizeBytes":  7786131,
-                        "sha256":  "127eea8ec80eb71df4a5c0f3b74d778e53d10b9620350aac489fb625420530be",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.1.2",
-                        "releaseDate":  "2026-04-03",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.1.2/patch_1.1.2.zip",
-                        "patchNotes":  "Beta Testing: April 3 Update",
-                        "fileSizeBytes":  7889990,
-                        "sha256":  "b7b3da6c1daf54b97ed57ff3d33bd3396bee3917d6d1b9afec0dba5336041149",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.1.3",
-                        "releaseDate":  "2026-04-03",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.1.3/patch_1.1.3.zip",
-                        "patchNotes":  "Beta Testing: April 3 V2 Update",
-                        "fileSizeBytes":  7890543,
-                        "sha256":  "68f1983e41d42d3e276d72a0a0bf43bc1e977346ee5026286c2f38e7e87c5ecb",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.1.4",
-                        "releaseDate":  "2026-04-05",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.1.4/patch_1.1.4.zip",
-                        "patchNotes":  "Beta Testing: April 5 Update",
-                        "fileSizeBytes":  7979924,
-                        "sha256":  "ff660f2af2162bd61f43320fa29eacbf7fa9a0e558ab29f0c6b50b98bb5d1876",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.1.5",
-                        "releaseDate":  "2026-04-10",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.1.5/patch_1.1.5.zip",
-                        "patchNotes":  "Beta Testing: April 10 Update",
-                        "fileSizeBytes":  11793868,
-                        "sha256":  "545c2c5af08297ef693118dd97de81bc9da61c7293c1b3cf5885b599ab8a4345",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.1.6",
-                        "releaseDate":  "2026-04-12",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.1.6/patch_1.1.6.zip",
-                        "patchNotes":  "Beta Testing: April 11 Update",
-                        "fileSizeBytes":  11797351,
-                        "sha256":  "35e58ac3bb1572f0bedb8fd95bc790b99e0b3b006fa8132ea14eef74667467bd",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.1.7",
-                        "releaseDate":  "2026-04-13",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.1.7/patch_1.1.7.zip",
-                        "patchNotes":  "Beta Testing: April 12 Update",
-                        "fileSizeBytes":  11797442,
-                        "sha256":  "8e9a39f619eaa8d15e7e29f501fd27a903817494183c191d6613d54a37d1558d",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.0",
-                        "releaseDate":  "2026-04-15",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.0/patch_1.2.0.zip",
-                        "patchNotes":  "April 15: Launch Day",
-                        "fileSizeBytes":  11797533,
-                        "sha256":  "7d8617ccbce47af7ec1a7196a8441dbc40c9865daa5f750523725f9e3b83e7b1",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.1",
-                        "releaseDate":  "2026-04-23",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.1/patch_1.2.1.zip",
-                        "patchNotes":  "April 23 Update",
-                        "fileSizeBytes":  13791381,
-                        "sha256":  "8a772da2989adfb38654caa3d207eb3afb1b6149d6a7beb27b0874b4bd239c3a",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.2",
-                        "releaseDate":  "2026-04-27",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.2/patch_1.2.2.zip",
-                        "patchNotes":  "April 27 Update",
-                        "fileSizeBytes":  13793646,
-                        "sha256":  "c47d5007b60afef8bea36442e69dfbec2ea24decd01a0d48f3e7960b4096f63c",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.3",
-                        "releaseDate":  "2026-04-30",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.3/patch_1.2.3.zip",
-                        "patchNotes":  "April 30 Update",
-                        "fileSizeBytes":  13789705,
-                        "sha256":  "061117d1e1230ea1b9146f0c23f772c2e0e0f5529495b26363251e59525f0469",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.4",
-                        "releaseDate":  "2026-05-04",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.4/patch_1.2.4.zip",
-                        "patchNotes":  "May 3 Update",
-                        "fileSizeBytes":  13789704,
-                        "sha256":  "15bd7a448643d03e9b78ad9a5a263ee86b04cfe123c240b0baf936405be68e97",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.5",
-                        "releaseDate":  "2026-05-14",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.5/patch_1.2.5.zip",
-                        "patchNotes":  "May 14 Update - fixed package",
-                        "fileSizeBytes":  13789784,
-                        "sha256":  "a386800205df7ba5287271eef8618eea7bc82ecab444f73d50f0e4e315eeda7b",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.6",
-                        "releaseDate":  "2026-05-21",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.6/patch_1.2.6.zip",
-                        "patchNotes":  "May 21 Update - Testrun",
-                        "fileSizeBytes":  12570788,
-                        "sha256":  "b0aef40ca96bef2886f47dd0572dbc3f8b5399f81fbb25aa21142e4d8abbd1d9",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.7",
-                        "releaseDate":  "2026-05-21",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.7/patch_1.2.7.zip",
-                        "patchNotes":  "May 21 Update - Testrun V2",
-                        "fileSizeBytes":  14890286,
-                        "sha256":  "01ef3394959d18bc0f3b7830e4ac69927970ae635baaff5c616b8298d2602c04",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.8",
-                        "releaseDate":  "2026-05-21",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.8/patch_1.2.8.zip",
-                        "patchNotes":  "May 21 Update - Testrun V3",
-                        "fileSizeBytes":  14884492,
-                        "sha256":  "a686a4eabc1eb1fe87e28979e6254fd10cb11eea5d9348b37b3624468bb150ea",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.9",
-                        "releaseDate":  "2026-05-21",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.9/patch_1.2.9.zip",
-                        "patchNotes":  "May 21 Update",
-                        "fileSizeBytes":  14884491,
-                        "sha256":  "3200d5c4fd1278ead8ee5ba5d3e2f3f3c55b5038a896452810aa60a8a6017f69",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.10",
-                        "releaseDate":  "2026-05-22",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.10/patch_1.2.10.zip",
-                        "patchNotes":  "May 22 Update",
-                        "fileSizeBytes":  14884479,
-                        "sha256":  "17f5070ee1959a335d8d06e247ef8013ff90fe76fb7d5c64f5bc3670a35aa38b",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.11",
-                        "releaseDate":  "2026-05-22",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.11/patch_1.2.11.zip",
-                        "patchNotes":  "May 22 Update",
-                        "fileSizeBytes":  14884477,
-                        "sha256":  "11ce0002d567ec7110b3ebf855914d58976a79f0d20aff4256f948db6ab48659",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.12",
-                        "releaseDate":  "2026-05-25",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.12/patch_1.2.12.zip",
-                        "patchNotes":  "May 25 Update",
-                        "fileSizeBytes":  14890476,
-                        "sha256":  "6abb29db3c25b66e7b65731afdc75c8c4980e14420d38eac3e832484eb61a906",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.13",
-                        "releaseDate":  "2026-05-29",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.13/patch_1.2.13.zip",
-                        "patchNotes":  "May 29 Update",
-                        "fileSizeBytes":  14890477,
-                        "sha256":  "5a99ad9ca63dc4ba4a361de2edb15a85fbffa3bc0d79eaae873d3316b76e6386",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.14",
-                        "releaseDate":  "2026-06-04",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.14/patch_1.2.14.zip",
-                        "patchNotes":  "June 4 Update",
-                        "fileSizeBytes":  14891966,
-                        "sha256":  "c00ba7e6b30feeba97825e71782624628281f9bba6a28690068ad93f6495b078",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.15",
-                        "releaseDate":  "2026-06-05",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.15/patch_1.2.15.zip",
-                        "patchNotes":  "June 5 Update",
-                        "fileSizeBytes":  14891966,
-                        "sha256":  "5d7d7be28153542d17141dc6985731bc06b74b5795b5e4bac525b53e5baeb9a7",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.16",
-                        "releaseDate":  "2026-06-05",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.16/patch_1.2.16.zip",
-                        "patchNotes":  "June 5 Update V2",
-                        "fileSizeBytes":  14892911,
-                        "sha256":  "988883273abec594a3426b95bb7c950a946a4f5c058d705446c2e4ec5b67aa0d",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.17",
-                        "releaseDate":  "2026-06-08",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.17/patch_1.2.17.zip",
-                        "patchNotes":  "June 8 Update",
-                        "fileSizeBytes":  15242125,
-                        "sha256":  "bf6c14ef8de272a54d65a4cd3508f456f95ffb5a3285da9ab18a457af61a4bc6",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.18",
-                        "releaseDate":  "2026-06-16",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.18/patch_1.2.18.zip",
-                        "patchNotes":  "June 16 Update",
-                        "fileSizeBytes":  15242165,
-                        "sha256":  "68a8733adcb1ad4ac8a0a82c12b128b550c95250be9c0a4bc6a95b330a17c62c",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.19",
-                        "releaseDate":  "2026-06-19",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.19/patch_1.2.19.zip",
-                        "patchNotes":  "June 19 Update",
-                        "fileSizeBytes":  16437767,
-                        "sha256":  "a66e226bd76f8026775387cf553d837c0b18897159cdbbe179c407a64588b57b",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.20",
-                        "releaseDate":  "2026-06-20",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.20/patch_1.2.20.zip",
-                        "patchNotes":  "June 20 Update",
-                        "fileSizeBytes":  16437789,
-                        "sha256":  "cb1680998b780fcb0342c722fedf80e49baed1361ce638666d8f2212d24b8641",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.21",
-                        "releaseDate":  "2026-06-22",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.21/patch_1.2.21.zip",
-                        "patchNotes":  "June 22 Update",
-                        "fileSizeBytes":  16438699,
-                        "sha256":  "ec506e558f8400ef388127213160544b6d4cd756aaea0261ad9daf1b5da0411f",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.22",
-                        "releaseDate":  "2026-06-26",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.22/patch_1.2.22.zip",
-                        "patchNotes":  "June 26 Update",
-                        "fileSizeBytes":  16438826,
-                        "sha256":  "c24a82b96fa5baf210b12099589a91148e7e5bc1ec6110edbb90991f8ebad7d8",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.23",
-                        "releaseDate":  "2026-07-16",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.23/patch_1.2.23.zip",
-                        "patchNotes":  "Initial Testing",
-                        "fileSizeBytes":  17329265,
-                        "sha256":  "e50823247a3d7f4de77e97cca3f8d3b543cf42d45ca3808f26f6513ec8ed4a9b",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.24",
-                        "releaseDate":  "2026-07-16",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.24/patch_1.2.24.zip",
-                        "patchNotes":  "Panel Skins",
-                        "fileSizeBytes":  282493705,
-                        "sha256":  "22c4afcb18c0ce204bf5ff60f8fe70c0bafabe423fad4044152c3610dc0b1efb",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.25",
-                        "releaseDate":  "2026-07-19",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.25/patch_1.2.25.zip",
-                        "patchNotes":  "",
-                        "fileSizeBytes":  373320759,
-                        "sha256":  "aae7fa222b591f3fd30d86a9d9697f7dc71ab58e3b1c37e395faa10b39de2e8d",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.27",
-                        "releaseDate":  "2026-07-21",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.27/patch_1.2.27.zip",
-                        "patchNotes":  "Phase 3",
-                        "fileSizeBytes":  375542231,
-                        "sha256":  "94c12e03dfb92c8494361b349c56033d77a1d5395adbab6f155adb2b63327754",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.28",
-                        "releaseDate":  "2026-07-22",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.28/patch_1.2.28.zip",
-                        "patchNotes":  "July 22 Update",
-                        "fileSizeBytes":  381438998,
-                        "sha256":  "b0a24a1cdfb1fc0d6afdc07e39b91fcff02560938d1e704c1e2c56ad0b7ad079",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.29",
-                        "releaseDate":  "2026-07-22",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.29/patch_1.2.29.zip",
-                        "patchNotes":  "July 23 update",
-                        "fileSizeBytes":  381439002,
-                        "sha256":  "bf0b04ac388ecf738f7e68d568472ac908413c9e047a259140a90d571b2c11b3",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.30",
-                        "releaseDate":  "2026-07-28",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.30/patch_1.2.30.zip",
-                        "patchNotes":  "MVP + Card System",
-                        "fileSizeBytes":  3514635,
-                        "sha256":  "e60b42131c51ec21d8940df007db926d36e3631a3bea02931061fae449703247",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.31",
-                        "releaseDate":  "2026-08-23",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.31/patch_1.2.31.zip",
-                        "patchNotes":  "New Genesis Server",
-                        "fileSizeBytes":  5283095,
-                        "sha256":  "05ab49da7aaca282d9dbc28924f46cdd483a87c064b19c18ed71a1a3735877f1",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.32",
-                        "releaseDate":  "2026-08-24",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.32/patch_1.2.32.zip",
-                        "patchNotes":  "August 24 Patch",
-                        "fileSizeBytes":  583287,
-                        "sha256":  "3da0748342aed556467ce2218a001a617d152208928bb74bf55603fef5b1d9bf",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.33",
-                        "releaseDate":  "2026-08-26",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.33/patch_1.2.33.zip",
-                        "patchNotes":  "August 26 Patch",
-                        "fileSizeBytes":  3222359,
-                        "sha256":  "5c4470178848dc7587239a0af708f50a4647728376ca7c4eaae91cf205ace8a7",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.34",
-                        "releaseDate":  "2026-08-28",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.34/patch_1.2.34.zip",
-                        "patchNotes":  "August 28 Patch",
-                        "fileSizeBytes":  2844785,
-                        "sha256":  "965dc8555d824cc20043e15e48287f00b745cfea3353eba375be6719c673ba20",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.35",
-                        "releaseDate":  "2026-09-02",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.35/patch_1.2.35.zip",
-                        "patchNotes":  "September 2 Update",
-                        "fileSizeBytes":  278916153,
-                        "sha256":  "18a12ccdb5ebcc65b12a4d6f1b42f08aaca5a602ff3d3e320ea8effeb3739302",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.36",
-                        "releaseDate":  "2026-09-06",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.36/patch_1.2.36.zip",
-                        "patchNotes":  "September 6 Update",
-                        "fileSizeBytes":  51137254,
-                        "sha256":  "2327eedcf73fe44099ff35c8ac2ff532010ff00200869261a6e86e592ec0bf9a",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.37",
-                        "releaseDate":  "2026-09-07",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.37/patch_1.2.37.zip",
-                        "patchNotes":  "September 7 Update",
-                        "fileSizeBytes":  3196715,
-                        "sha256":  "1e7d07a8789865bbee505ee0150f0cda853bccf30f3a73505f217a8fa55865fb",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.38",
-                        "releaseDate":  "2026-09-11",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.38/patch_1.2.38.zip",
-                        "patchNotes":  "September 11 Update",
-                        "fileSizeBytes":  66971804,
-                        "sha256":  "a2e515e90af98c6f76fafc580cbfd793893895ebdd6be42f376fa6ca054c7736",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.39",
-                        "releaseDate":  "2026-09-12",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.39/patch_1.2.39.zip",
-                        "patchNotes":  "Sept 12 Update",
-                        "fileSizeBytes":  3241562,
-                        "sha256":  "165df24e8f86f6a3726458e8b2f5c1980578bcdc789e8f9b62765735487fb625",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.40",
-                        "releaseDate":  "2026-09-13",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.40/patch_1.2.40.zip",
-                        "patchNotes":  "September 14 Patch",
-                        "fileSizeBytes":  2877985,
-                        "sha256":  "9bd0e3dd1028db30355a0b53fe84e05412109a05bf541d2edaa4c15b4b7a2d53",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.41",
-                        "releaseDate":  "2026-09-17",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.41/patch_1.2.41.zip",
-                        "patchNotes":  "September 17 Patch",
-                        "fileSizeBytes":  3271512,
-                        "sha256":  "4bca00855a875e69a92141e6a632062f26a988ac94d1d2fbee399eb365bd1ff1",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.42",
-                        "releaseDate":  "2026-09-18",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.42/patch_1.2.42.zip",
-                        "patchNotes":  "September 18 Patch",
-                        "fileSizeBytes":  2877872,
-                        "sha256":  "9d020255b5326615f150978b6efaea53879e28a495305894eac31c45574bb447",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.43",
-                        "releaseDate":  "2026-09-20",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.43/patch_1.2.43.zip",
-                        "patchNotes":  "September 20 Patch",
-                        "fileSizeBytes":  133855557,
-                        "sha256":  "1d47284afe1a43bec0270a653c243d6da9684e2299669286aa01ac375c6e6ee1",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.44",
-                        "releaseDate":  "2026-09-20",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.44/patch_1.2.44.zip",
-                        "patchNotes":  "Sept 20 Patch V2",
-                        "fileSizeBytes":  2881094,
-                        "sha256":  "c038057bade24dd6958a879fea345c827190fb0e535c19c698e6a5974b627bee",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.45",
-                        "releaseDate":  "2026-09-21",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.45/patch_1.2.45.zip",
-                        "patchNotes":  "September 21 Patch",
-                        "fileSizeBytes":  2881805,
-                        "sha256":  "24bb028d93a5a56989e025d45187c5742260fd756f99b948dbdd6370be644581",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.46",
-                        "releaseDate":  "2026-09-22",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.46/patch_1.2.46.zip",
-                        "patchNotes":  "September 22 Patch",
-                        "fileSizeBytes":  3132613,
-                        "sha256":  "dc7b3d4f2e66f74c1d43bdb5034deefb6159f6be0e5118133070496366fae932",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.47",
-                        "releaseDate":  "2026-09-24",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.47/patch_1.2.47.zip",
-                        "patchNotes":  "September 24 Patch",
-                        "fileSizeBytes":  61570834,
-                        "sha256":  "2f616ba9fec123f34eed428b75e00fcc530c91de4546df30cf4da11018c38cf4",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.48",
-                        "releaseDate":  "2026-09-24",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.48/patch_1.2.48.zip",
-                        "patchNotes":  "September 24 V2 Patch",
-                        "fileSizeBytes":  2903830,
-                        "sha256":  "cf4436e9951f53d589669613c414546f8c68fad0141991022d4b42401d1acbf5",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.49",
-                        "releaseDate":  "2026-09-28",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.49/patch_1.2.49.zip",
-                        "patchNotes":  "September 28 Patch",
-                        "fileSizeBytes":  121175417,
-                        "sha256":  "3c6fe168dd214157e5014b351640262375847f0fd7d450d6da5cb34a60275c7a",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.50",
-                        "releaseDate":  "2026-10-01",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.50/patch_1.2.50.zip",
-                        "patchNotes":  "October 1 patch",
-                        "fileSizeBytes":  41929894,
-                        "sha256":  "ea5d01b9377f86fea9f83529224933043de6db3cbc8d94670cf933c5cd04ef92",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.51",
-                        "releaseDate":  "2026-10-01",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.51/patch_1.2.51.zip",
-                        "patchNotes":  "October 1 patch V2",
-                        "fileSizeBytes":  2913116,
-                        "sha256":  "f9600a74a4c76180eb8535ade10dc70b34911fa79eac764299932c1ccb9f0912",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.52",
-                        "releaseDate":  "2026-10-08",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.52/patch_1.2.52.zip",
-                        "patchNotes":  "October 08 Patch",
-                        "fileSizeBytes":  14554677,
-                        "sha256":  "20fa1f7424776ac2a7f74be0d6f012bc44c19d35b95ad9cd25119c328fda2687",
-                        "fileHashes":  {
-
-                                       }
-                    },
-                    {
-                        "version":  "1.2.26",
-                        "releaseDate":  "2026-11-01",
-                        "downloadUrl":  "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.26/patch_1.2.26.zip",
-                        "patchNotes":  "Temp Client",
-                        "fileSizeBytes":  107876029,
-                        "sha256":  "520dd4b5bff3791496691c74e95f92a68730a0426ba3d35aeadc1583a45bab8c",
-                        "fileHashes":  {
-
-                                       }
-                    }
-                ]
+{
+  "gameTitle": "Wonderland Online: Safe Haven",
+  "latestVersion": "1.2.52",
+  "patches": [
+    {
+      "version": "1.1.0",
+      "releaseDate": "2026-03-13",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.1.0/patch_1.1.0.zip",
+      "patchNotes": "Beta Testing: Week 2 - Pet/Skill Changes",
+      "fileSizeBytes": 7776109,
+      "sha256": "15a2d0dfadee00281ac4c2ea242df48f072a0139d1493823383398c3971f5a38",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.1.1",
+      "releaseDate": "2026-03-30",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.1.1/patch_1.1.1.zip",
+      "patchNotes": "Beta Testing: April 30 Update",
+      "fileSizeBytes": 7786131,
+      "sha256": "127eea8ec80eb71df4a5c0f3b74d778e53d10b9620350aac489fb625420530be",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.1.2",
+      "releaseDate": "2026-04-03",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.1.2/patch_1.1.2.zip",
+      "patchNotes": "Beta Testing: April 3 Update",
+      "fileSizeBytes": 7889990,
+      "sha256": "b7b3da6c1daf54b97ed57ff3d33bd3396bee3917d6d1b9afec0dba5336041149",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.1.3",
+      "releaseDate": "2026-04-03",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.1.3/patch_1.1.3.zip",
+      "patchNotes": "Beta Testing: April 3 V2 Update",
+      "fileSizeBytes": 7890543,
+      "sha256": "68f1983e41d42d3e276d72a0a0bf43bc1e977346ee5026286c2f38e7e87c5ecb",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.1.4",
+      "releaseDate": "2026-04-05",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.1.4/patch_1.1.4.zip",
+      "patchNotes": "Beta Testing: April 5 Update",
+      "fileSizeBytes": 7979924,
+      "sha256": "ff660f2af2162bd61f43320fa29eacbf7fa9a0e558ab29f0c6b50b98bb5d1876",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.1.5",
+      "releaseDate": "2026-04-10",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.1.5/patch_1.1.5.zip",
+      "patchNotes": "Beta Testing: April 10 Update",
+      "fileSizeBytes": 11793868,
+      "sha256": "545c2c5af08297ef693118dd97de81bc9da61c7293c1b3cf5885b599ab8a4345",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.1.6",
+      "releaseDate": "2026-04-12",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.1.6/patch_1.1.6.zip",
+      "patchNotes": "Beta Testing: April 11 Update",
+      "fileSizeBytes": 11797351,
+      "sha256": "35e58ac3bb1572f0bedb8fd95bc790b99e0b3b006fa8132ea14eef74667467bd",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.1.7",
+      "releaseDate": "2026-04-13",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.1.7/patch_1.1.7.zip",
+      "patchNotes": "Beta Testing: April 12 Update",
+      "fileSizeBytes": 11797442,
+      "sha256": "8e9a39f619eaa8d15e7e29f501fd27a903817494183c191d6613d54a37d1558d",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.0",
+      "releaseDate": "2026-04-15",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.0/patch_1.2.0.zip",
+      "patchNotes": "April 15: Launch Day",
+      "fileSizeBytes": 11797533,
+      "sha256": "7d8617ccbce47af7ec1a7196a8441dbc40c9865daa5f750523725f9e3b83e7b1",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.1",
+      "releaseDate": "2026-04-23",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.1/patch_1.2.1.zip",
+      "patchNotes": "April 23 Update",
+      "fileSizeBytes": 13791381,
+      "sha256": "8a772da2989adfb38654caa3d207eb3afb1b6149d6a7beb27b0874b4bd239c3a",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.2",
+      "releaseDate": "2026-04-27",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.2/patch_1.2.2.zip",
+      "patchNotes": "April 27 Update",
+      "fileSizeBytes": 13793646,
+      "sha256": "c47d5007b60afef8bea36442e69dfbec2ea24decd01a0d48f3e7960b4096f63c",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.3",
+      "releaseDate": "2026-04-30",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.3/patch_1.2.3.zip",
+      "patchNotes": "April 30 Update",
+      "fileSizeBytes": 13789705,
+      "sha256": "061117d1e1230ea1b9146f0c23f772c2e0e0f5529495b26363251e59525f0469",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.4",
+      "releaseDate": "2026-05-04",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.4/patch_1.2.4.zip",
+      "patchNotes": "May 3 Update",
+      "fileSizeBytes": 13789704,
+      "sha256": "15bd7a448643d03e9b78ad9a5a263ee86b04cfe123c240b0baf936405be68e97",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.5",
+      "releaseDate": "2026-05-14",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.5/patch_1.2.5.zip",
+      "patchNotes": "May 14 Update - fixed package",
+      "fileSizeBytes": 13789784,
+      "sha256": "a386800205df7ba5287271eef8618eea7bc82ecab444f73d50f0e4e315eeda7b",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.6",
+      "releaseDate": "2026-05-21",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.6/patch_1.2.6.zip",
+      "patchNotes": "May 21 Update - Testrun",
+      "fileSizeBytes": 12570788,
+      "sha256": "b0aef40ca96bef2886f47dd0572dbc3f8b5399f81fbb25aa21142e4d8abbd1d9",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.7",
+      "releaseDate": "2026-05-21",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.7/patch_1.2.7.zip",
+      "patchNotes": "May 21 Update - Testrun V2",
+      "fileSizeBytes": 14890286,
+      "sha256": "01ef3394959d18bc0f3b7830e4ac69927970ae635baaff5c616b8298d2602c04",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.8",
+      "releaseDate": "2026-05-21",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.8/patch_1.2.8.zip",
+      "patchNotes": "May 21 Update - Testrun V3",
+      "fileSizeBytes": 14884492,
+      "sha256": "a686a4eabc1eb1fe87e28979e6254fd10cb11eea5d9348b37b3624468bb150ea",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.9",
+      "releaseDate": "2026-05-21",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.9/patch_1.2.9.zip",
+      "patchNotes": "May 21 Update",
+      "fileSizeBytes": 14884491,
+      "sha256": "3200d5c4fd1278ead8ee5ba5d3e2f3f3c55b5038a896452810aa60a8a6017f69",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.10",
+      "releaseDate": "2026-05-22",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.10/patch_1.2.10.zip",
+      "patchNotes": "May 22 Update",
+      "fileSizeBytes": 14884479,
+      "sha256": "17f5070ee1959a335d8d06e247ef8013ff90fe76fb7d5c64f5bc3670a35aa38b",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.11",
+      "releaseDate": "2026-05-22",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.11/patch_1.2.11.zip",
+      "patchNotes": "May 22 Update",
+      "fileSizeBytes": 14884477,
+      "sha256": "11ce0002d567ec7110b3ebf855914d58976a79f0d20aff4256f948db6ab48659",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.12",
+      "releaseDate": "2026-05-25",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.12/patch_1.2.12.zip",
+      "patchNotes": "May 25 Update",
+      "fileSizeBytes": 14890476,
+      "sha256": "6abb29db3c25b66e7b65731afdc75c8c4980e14420d38eac3e832484eb61a906",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.13",
+      "releaseDate": "2026-05-29",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.13/patch_1.2.13.zip",
+      "patchNotes": "May 29 Update",
+      "fileSizeBytes": 14890477,
+      "sha256": "5a99ad9ca63dc4ba4a361de2edb15a85fbffa3bc0d79eaae873d3316b76e6386",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.14",
+      "releaseDate": "2026-06-04",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.14/patch_1.2.14.zip",
+      "patchNotes": "June 4 Update",
+      "fileSizeBytes": 14891966,
+      "sha256": "c00ba7e6b30feeba97825e71782624628281f9bba6a28690068ad93f6495b078",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.15",
+      "releaseDate": "2026-06-05",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.15/patch_1.2.15.zip",
+      "patchNotes": "June 5 Update",
+      "fileSizeBytes": 14891966,
+      "sha256": "5d7d7be28153542d17141dc6985731bc06b74b5795b5e4bac525b53e5baeb9a7",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.16",
+      "releaseDate": "2026-06-05",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.16/patch_1.2.16.zip",
+      "patchNotes": "June 5 Update V2",
+      "fileSizeBytes": 14892911,
+      "sha256": "988883273abec594a3426b95bb7c950a946a4f5c058d705446c2e4ec5b67aa0d",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.17",
+      "releaseDate": "2026-06-08",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.17/patch_1.2.17.zip",
+      "patchNotes": "June 8 Update",
+      "fileSizeBytes": 15242125,
+      "sha256": "bf6c14ef8de272a54d65a4cd3508f456f95ffb5a3285da9ab18a457af61a4bc6",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.18",
+      "releaseDate": "2026-06-16",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.18/patch_1.2.18.zip",
+      "patchNotes": "June 16 Update",
+      "fileSizeBytes": 15242165,
+      "sha256": "68a8733adcb1ad4ac8a0a82c12b128b550c95250be9c0a4bc6a95b330a17c62c",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.19",
+      "releaseDate": "2026-06-19",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.19/patch_1.2.19.zip",
+      "patchNotes": "June 19 Update",
+      "fileSizeBytes": 16437767,
+      "sha256": "a66e226bd76f8026775387cf553d837c0b18897159cdbbe179c407a64588b57b",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.20",
+      "releaseDate": "2026-06-20",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.20/patch_1.2.20.zip",
+      "patchNotes": "June 20 Update",
+      "fileSizeBytes": 16437789,
+      "sha256": "cb1680998b780fcb0342c722fedf80e49baed1361ce638666d8f2212d24b8641",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.21",
+      "releaseDate": "2026-06-22",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.21/patch_1.2.21.zip",
+      "patchNotes": "June 22 Update",
+      "fileSizeBytes": 16438699,
+      "sha256": "ec506e558f8400ef388127213160544b6d4cd756aaea0261ad9daf1b5da0411f",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.22",
+      "releaseDate": "2026-06-26",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.22/patch_1.2.22.zip",
+      "patchNotes": "June 26 Update",
+      "fileSizeBytes": 16438826,
+      "sha256": "c24a82b96fa5baf210b12099589a91148e7e5bc1ec6110edbb90991f8ebad7d8",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.23",
+      "releaseDate": "2026-07-16",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.23/patch_1.2.23.zip",
+      "patchNotes": "Initial Testing",
+      "fileSizeBytes": 17329265,
+      "sha256": "e50823247a3d7f4de77e97cca3f8d3b543cf42d45ca3808f26f6513ec8ed4a9b",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.24",
+      "releaseDate": "2026-07-16",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.24/patch_1.2.24.zip",
+      "patchNotes": "Panel Skins",
+      "fileSizeBytes": 282493705,
+      "sha256": "22c4afcb18c0ce204bf5ff60f8fe70c0bafabe423fad4044152c3610dc0b1efb",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.25",
+      "releaseDate": "2026-07-19",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.25/patch_1.2.25.zip",
+      "patchNotes": "",
+      "fileSizeBytes": 373320759,
+      "sha256": "aae7fa222b591f3fd30d86a9d9697f7dc71ab58e3b1c37e395faa10b39de2e8d",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.26",
+      "releaseDate": "2026-11-01",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.26/patch_1.2.26.zip",
+      "patchNotes": "Temp Client",
+      "fileSizeBytes": 107876029,
+      "sha256": "520dd4b5bff3791496691c74e95f92a68730a0426ba3d35aeadc1583a45bab8c",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.27",
+      "releaseDate": "2026-07-21",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.27/patch_1.2.27.zip",
+      "patchNotes": "Phase 3",
+      "fileSizeBytes": 375542231,
+      "sha256": "94c12e03dfb92c8494361b349c56033d77a1d5395adbab6f155adb2b63327754",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.28",
+      "releaseDate": "2026-07-22",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.28/patch_1.2.28.zip",
+      "patchNotes": "July 22 Update",
+      "fileSizeBytes": 381438998,
+      "sha256": "b0a24a1cdfb1fc0d6afdc07e39b91fcff02560938d1e704c1e2c56ad0b7ad079",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.29",
+      "releaseDate": "2026-07-22",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.29/patch_1.2.29.zip",
+      "patchNotes": "July 23 update",
+      "fileSizeBytes": 381439002,
+      "sha256": "bf0b04ac388ecf738f7e68d568472ac908413c9e047a259140a90d571b2c11b3",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.30",
+      "releaseDate": "2026-07-28",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.30/patch_1.2.30.zip",
+      "patchNotes": "MVP + Card System",
+      "fileSizeBytes": 3514635,
+      "sha256": "e60b42131c51ec21d8940df007db926d36e3631a3bea02931061fae449703247",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.31",
+      "releaseDate": "2026-08-23",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.31/patch_1.2.31.zip",
+      "patchNotes": "New Genesis Server",
+      "fileSizeBytes": 5283095,
+      "sha256": "05ab49da7aaca282d9dbc28924f46cdd483a87c064b19c18ed71a1a3735877f1",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.32",
+      "releaseDate": "2026-08-24",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.32/patch_1.2.32.zip",
+      "patchNotes": "August 24 Patch",
+      "fileSizeBytes": 583287,
+      "sha256": "3da0748342aed556467ce2218a001a617d152208928bb74bf55603fef5b1d9bf",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.33",
+      "releaseDate": "2026-08-26",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.33/patch_1.2.33.zip",
+      "patchNotes": "August 26 Patch",
+      "fileSizeBytes": 3222359,
+      "sha256": "5c4470178848dc7587239a0af708f50a4647728376ca7c4eaae91cf205ace8a7",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.34",
+      "releaseDate": "2026-08-28",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.34/patch_1.2.34.zip",
+      "patchNotes": "August 28 Patch",
+      "fileSizeBytes": 2844785,
+      "sha256": "965dc8555d824cc20043e15e48287f00b745cfea3353eba375be6719c673ba20",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.35",
+      "releaseDate": "2026-09-02",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.35/patch_1.2.35.zip",
+      "patchNotes": "September 2 Update",
+      "fileSizeBytes": 278916153,
+      "sha256": "18a12ccdb5ebcc65b12a4d6f1b42f08aaca5a602ff3d3e320ea8effeb3739302",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.36",
+      "releaseDate": "2026-09-06",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.36/patch_1.2.36.zip",
+      "patchNotes": "September 6 Update",
+      "fileSizeBytes": 51137254,
+      "sha256": "2327eedcf73fe44099ff35c8ac2ff532010ff00200869261a6e86e592ec0bf9a",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.37",
+      "releaseDate": "2026-09-07",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.37/patch_1.2.37.zip",
+      "patchNotes": "September 7 Update",
+      "fileSizeBytes": 3196715,
+      "sha256": "1e7d07a8789865bbee505ee0150f0cda853bccf30f3a73505f217a8fa55865fb",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.38",
+      "releaseDate": "2026-09-11",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.38/patch_1.2.38.zip",
+      "patchNotes": "September 11 Update",
+      "fileSizeBytes": 66971804,
+      "sha256": "a2e515e90af98c6f76fafc580cbfd793893895ebdd6be42f376fa6ca054c7736",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.39",
+      "releaseDate": "2026-09-12",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.39/patch_1.2.39.zip",
+      "patchNotes": "Sept 12 Update",
+      "fileSizeBytes": 3241562,
+      "sha256": "165df24e8f86f6a3726458e8b2f5c1980578bcdc789e8f9b62765735487fb625",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.40",
+      "releaseDate": "2026-09-13",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.40/patch_1.2.40.zip",
+      "patchNotes": "September 14 Patch",
+      "fileSizeBytes": 2877985,
+      "sha256": "9bd0e3dd1028db30355a0b53fe84e05412109a05bf541d2edaa4c15b4b7a2d53",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.41",
+      "releaseDate": "2026-09-17",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.41/patch_1.2.41.zip",
+      "patchNotes": "September 17 Patch",
+      "fileSizeBytes": 3271512,
+      "sha256": "4bca00855a875e69a92141e6a632062f26a988ac94d1d2fbee399eb365bd1ff1",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.42",
+      "releaseDate": "2026-09-18",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.42/patch_1.2.42.zip",
+      "patchNotes": "September 18 Patch",
+      "fileSizeBytes": 2877872,
+      "sha256": "9d020255b5326615f150978b6efaea53879e28a495305894eac31c45574bb447",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.43",
+      "releaseDate": "2026-09-20",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.43/patch_1.2.43.zip",
+      "patchNotes": "September 20 Patch",
+      "fileSizeBytes": 133855557,
+      "sha256": "1d47284afe1a43bec0270a653c243d6da9684e2299669286aa01ac375c6e6ee1",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.44",
+      "releaseDate": "2026-09-20",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.44/patch_1.2.44.zip",
+      "patchNotes": "Sept 20 Patch V2",
+      "fileSizeBytes": 2881094,
+      "sha256": "c038057bade24dd6958a879fea345c827190fb0e535c19c698e6a5974b627bee",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.45",
+      "releaseDate": "2026-09-21",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.45/patch_1.2.45.zip",
+      "patchNotes": "September 21 Patch",
+      "fileSizeBytes": 2881805,
+      "sha256": "24bb028d93a5a56989e025d45187c5742260fd756f99b948dbdd6370be644581",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.46",
+      "releaseDate": "2026-09-22",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.46/patch_1.2.46.zip",
+      "patchNotes": "September 22 Patch",
+      "fileSizeBytes": 3132613,
+      "sha256": "dc7b3d4f2e66f74c1d43bdb5034deefb6159f6be0e5118133070496366fae932",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.47",
+      "releaseDate": "2026-09-24",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.47/patch_1.2.47.zip",
+      "patchNotes": "September 24 Patch",
+      "fileSizeBytes": 61570834,
+      "sha256": "2f616ba9fec123f34eed428b75e00fcc530c91de4546df30cf4da11018c38cf4",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.48",
+      "releaseDate": "2026-09-24",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.48/patch_1.2.48.zip",
+      "patchNotes": "September 24 V2 Patch",
+      "fileSizeBytes": 2903830,
+      "sha256": "cf4436e9951f53d589669613c414546f8c68fad0141991022d4b42401d1acbf5",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.49",
+      "releaseDate": "2026-09-28",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.49/patch_1.2.49.zip",
+      "patchNotes": "September 28 Patch",
+      "fileSizeBytes": 121175417,
+      "sha256": "3c6fe168dd214157e5014b351640262375847f0fd7d450d6da5cb34a60275c7a",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.50",
+      "releaseDate": "2026-10-01",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.50/patch_1.2.50.zip",
+      "patchNotes": "October 1 patch",
+      "fileSizeBytes": 41929894,
+      "sha256": "ea5d01b9377f86fea9f83529224933043de6db3cbc8d94670cf933c5cd04ef92",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.51",
+      "releaseDate": "2026-10-01",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.51/patch_1.2.51.zip",
+      "patchNotes": "October 1 patch V2",
+      "fileSizeBytes": 2913116,
+      "sha256": "f9600a74a4c76180eb8535ade10dc70b34911fa79eac764299932c1ccb9f0912",
+      "fileHashes": {}
+    },
+    {
+      "version": "1.2.52",
+      "releaseDate": "2026-11-01",
+      "downloadUrl": "https://github.com/wlosafehaven-sketch/WLOSH-Patches/releases/download/v1.2.52/patch_1.2.52.zip",
+      "patchNotes": "Temp Client",
+      "fileSizeBytes": 115021642,
+      "sha256": "303e3549c269b86775b9cc7fcd0e4e8857257be29df75876474d3914d8f968c8",
+      "fileHashes": {}
+    }
+  ]
 }
